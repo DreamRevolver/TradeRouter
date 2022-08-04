@@ -1,0 +1,17 @@
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\bin\Debug\netstandard2.0\BinanceFrontEnd.deps.json
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\bin\Debug\netstandard2.0\BinanceFrontEnd.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\bin\Debug\netstandard2.0\BinanceFrontEnd.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\bin\Debug\netstandard2.0\BinanceFuturesConnector.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\bin\Debug\netstandard2.0\SharedBinance.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\bin\Debug\netstandard2.0\BinanceFuturesConnector.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\bin\Debug\netstandard2.0\SharedBinance.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\obj\Debug\netstandard2.0\BinanceFrontEnd.csproj.AssemblyReference.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\obj\Debug\netstandard2.0\BinanceFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\obj\Debug\netstandard2.0\BinanceFrontEnd.AssemblyInfoInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\obj\Debug\netstandard2.0\BinanceFrontEnd.AssemblyInfo.cs
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\obj\Debug\netstandard2.0\BinanceFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\obj\Debug\netstandard2.0\BinanceFrontEnd.csproj.CopyComplete
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\obj\Debug\netstandard2.0\BinanceFrontEnd.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\obj\Debug\netstandard2.0\BinanceFrontEnd.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\bin\Debug\netstandard2.0\CommonExchange.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFrontEnd\bin\Debug\netstandard2.0\CommonExchange.pdb

@@ -1,0 +1,23 @@
+02:34:53,453 | INFO  | Master | Logon
+04:14:38,504 | INFO  | Subscriber1 | Started
+04:14:40,102 | INFO  | Subscriber1 | Positions mode not changed! Reason: No need to change position side.
+04:14:40,867 | INFO  | Subscriber1 | Logon
+04:14:42,995 | INFO  | Subscriber1 | Non master orders canceled
+04:14:42,997 | INFO  | Subscriber1 | No position to close
+04:14:43,000 | INFO  | Subscriber1 | Open orders synchronized with master
+04:25:31,852 | INFO  | Sub2 | Started
+04:25:33,902 | INFO  | Sub2 | Positions mode not changed! Reason: No need to change position side.
+04:25:34,665 | INFO  | Sub2 | Logon
+04:25:36,764 | INFO  | Sub2 | Non master orders canceled
+04:25:36,765 | INFO  | Sub2 | No position to close
+04:25:36,765 | INFO  | Sub2 | Open orders synchronized with master
+04:27:12,483 | WARN  | Sub2 | Connection closed by client side
+04:27:12,483 | WARN  | Subscriber1 | Connection closed by client side
+04:27:12,484 | INFO  | Subscriber1 | Logout
+04:27:12,483 | WARN  | Master | Connection closed by client side
+04:27:12,484 | INFO  | Sub2 | Logout
+04:27:12,486 | INFO  | Master | Logout
+04:27:12,487 | INFO  | Subscriber1 | Stopped
+04:27:12,486 | INFO  | Sub2 | Stopped
+04:27:12,488 | INFO  | Master | Stopped
+04:27:12,517 | ERROR | Master | Exception2 in WebSocketWrapper.SocketConnect | Message: Error creating window handle.

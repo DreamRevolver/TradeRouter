@@ -1,0 +1,13 @@
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\bin\Debug\netstandard2.0\CommonExchange.deps.json
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\bin\Debug\netstandard2.0\CommonExchange.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\bin\Debug\netstandard2.0\CommonExchange.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\bin\Debug\netstandard2.0\SharedBinance.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\bin\Debug\netstandard2.0\SharedBinance.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\obj\Debug\netstandard2.0\CommonExchange.csproj.AssemblyReference.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\obj\Debug\netstandard2.0\CommonExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\obj\Debug\netstandard2.0\CommonExchange.AssemblyInfoInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\obj\Debug\netstandard2.0\CommonExchange.AssemblyInfo.cs
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\obj\Debug\netstandard2.0\CommonExchange.csproj.CoreCompileInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\obj\Debug\netstandard2.0\CommonExchange.csproj.CopyComplete
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\obj\Debug\netstandard2.0\CommonExchange.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\CommonExchange\obj\Debug\netstandard2.0\CommonExchange.pdb

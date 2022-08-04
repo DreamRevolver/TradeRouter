@@ -1,0 +1,339 @@
+10:21:40,063 | INFO  | RedisClient | redis client created
+10:21:40,064 | INFO  | RedisTransmitter | redis transmitter was created
+10:21:40,065 | INFO  | RedisClient | redis client created
+10:21:40,065 | INFO  | RedisListener | redis listener with host: [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] was created
+10:21:40,066 | INFO  | RedisListener | run redis listener
+10:21:40,068 | INFO  | RedisClient | trying to connect redis...
+10:21:40,070 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+10:21:40,582 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+10:21:40,585 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+10:21:40,953 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+10:21:40,954 | INFO  | RedisClient | redis client connected successfully
+10:21:40,956 | INFO  | RedisListener | trying to start redis listener polling...
+10:21:40,963 | INFO  | RedisClient | trying to connect redis...
+10:21:40,964 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+10:21:41,248 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+10:21:41,249 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+10:21:41,534 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+10:21:41,535 | INFO  | RedisClient | redis client connected successfully
+10:21:42,061 | ERROR | Master | Exception in BinanceApp.GetAllOpenOrders | Message = (An error occurred while sending the request.)
+10:21:42,069 | ERROR | MasterOrderForm | Exception in MasterOrderForm.SetConnector | Message = Failed to get all open orders. See inner exception for more details.
+10:21:42,088 | ERROR | Master | Exception in BinanceApp.GetPositions | Message: An error occurred while sending the request.
+10:21:42,090 | ERROR | Positions | Exception in Positions.SetConnector while getting positions | Message: Failed to get positions. See inner exception for more details.
+10:21:42,111 | ERROR | UNHANDLED ThreadException | ThreadException EXCEPTION FROM SENDER: System.Threading.Thread => Message Object reference not set to an instance of an object. | StackTrace    at NormalRouterApplication.Positions.<SetConnector>d__11.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\NormalRouterApplication\Positions.cs:line 140
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+10:23:20,716 | INFO  | Master | Stopped
+10:23:32,042 | INFO  | RedisClient | redis client created
+10:23:32,043 | INFO  | RedisTransmitter | redis transmitter was created
+10:23:32,044 | INFO  | RedisClient | redis client created
+10:23:32,045 | INFO  | RedisListener | redis listener with host: [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] was created
+10:23:32,045 | INFO  | RedisListener | run redis listener
+10:23:32,048 | INFO  | RedisClient | trying to connect redis...
+10:23:32,049 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+10:23:32,436 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+10:23:32,439 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+10:23:32,730 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+10:23:32,731 | INFO  | RedisClient | redis client connected successfully
+10:23:32,732 | INFO  | RedisListener | trying to start redis listener polling...
+10:23:32,740 | INFO  | RedisClient | trying to connect redis...
+10:23:32,741 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+10:23:33,043 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+10:23:33,043 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+10:23:33,345 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+10:23:33,346 | INFO  | RedisClient | redis client connected successfully
+10:23:34,045 | ERROR | Master | Exception in BinanceApp.GetPositions | Message: An error occurred while sending the request.
+10:23:34,049 | ERROR | Positions | Exception in Positions.SetConnector while getting positions | Message: Failed to get positions. See inner exception for more details.
+10:23:34,069 | ERROR | Master | Exception in BinanceApp.GetAllOpenOrders | Message = (An error occurred while sending the request.)
+10:23:34,070 | ERROR | MasterOrderForm | Exception in MasterOrderForm.SetConnector | Message = Failed to get all open orders. See inner exception for more details.
+10:47:48,065 | INFO  | RedisClient | redis client created
+10:47:48,066 | INFO  | RedisTransmitter | redis transmitter was created
+10:47:48,067 | INFO  | RedisClient | redis client created
+10:47:48,068 | INFO  | RedisListener | redis listener with host: [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] was created
+10:47:48,069 | INFO  | RedisListener | run redis listener
+10:47:48,075 | INFO  | RedisClient | trying to connect redis...
+10:47:48,076 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+10:47:48,491 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+10:47:48,496 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+10:47:48,790 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+10:47:48,791 | INFO  | RedisClient | redis client connected successfully
+10:47:48,795 | INFO  | RedisListener | trying to start redis listener polling...
+10:47:48,804 | INFO  | RedisClient | trying to connect redis...
+10:47:48,804 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+10:47:49,089 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+10:47:49,090 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+10:47:49,374 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+10:47:49,375 | INFO  | RedisClient | redis client connected successfully
+10:47:50,163 | ERROR | Master | Exception in BinanceApp.GetPositions | Message: An error occurred while sending the request.
+10:47:50,236 | ERROR | Positions | Exception in Positions.SetConnector while getting positions | Message: Failed to get positions. See inner exception for more details.
+10:47:52,128 | ERROR | Master | Exception in BinanceApp.GetAllOpenOrders | Message = (An error occurred while sending the request.)
+10:47:52,155 | ERROR | MasterOrderForm | Exception in MasterOrderForm.SetConnector | Message = Failed to get all open orders. See inner exception for more details.
+10:48:06,203 | INFO  | Master | Stopped
+10:51:43,228 | INFO  | RedisClient | redis client created
+10:51:43,246 | INFO  | RedisClient | trying to connect redis...
+10:51:43,248 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+10:51:43,639 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+10:51:43,643 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+10:51:43,940 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+10:51:43,941 | INFO  | RedisClient | redis client connected successfully
+10:51:48,728 | INFO  | Master | Logon
+10:56:37,920 | INFO  | Master | Stopped
+10:56:37,966 | WARN  | Master | Connection closed by client side
+10:56:37,970 | INFO  | Master | Logout
+10:56:50,751 | INFO  | RedisClient | redis client created
+10:56:50,757 | INFO  | RedisClient | trying to connect redis...
+10:56:50,758 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+10:56:51,192 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+10:56:51,195 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+10:56:51,506 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+10:56:51,507 | INFO  | RedisClient | redis client connected successfully
+10:56:55,242 | INFO  | Master | Logon
+11:00:16,414 | INFO  | Master | Stopped
+11:00:16,420 | WARN  | Master | Connection closed by client side
+11:00:16,421 | INFO  | Master | Logout
+11:00:29,515 | INFO  | RedisClient | redis client created
+11:00:29,521 | INFO  | RedisClient | trying to connect redis...
+11:00:29,522 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+11:00:29,908 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+11:00:29,911 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+11:00:30,205 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+11:00:30,206 | INFO  | RedisClient | redis client connected successfully
+11:00:34,666 | INFO  | Master | Logon
+11:31:10,501 | INFO  | RedisClient | redis client created
+11:31:10,502 | INFO  | RedisTransmitter | redis transmitter was created
+11:31:10,503 | INFO  | RedisClient | redis client created
+11:31:10,504 | INFO  | RedisListener | redis listener with host: [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] was created
+11:31:10,505 | INFO  | RedisListener | run redis listener
+11:31:10,506 | INFO  | RedisClient | trying to connect redis...
+11:31:10,507 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+11:31:11,106 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+11:31:11,113 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+11:31:11,409 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+11:31:11,410 | INFO  | RedisClient | redis client connected successfully
+11:31:11,413 | INFO  | RedisListener | trying to start redis listener polling...
+11:31:11,459 | INFO  | RedisClient | trying to connect redis...
+11:31:11,460 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+11:31:11,745 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+11:31:11,745 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+11:31:12,030 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+11:31:12,031 | INFO  | RedisClient | redis client connected successfully
+11:31:12,890 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:31:12,995 | ERROR | Master | Exception in BinanceApp.GetAllOpenOrders | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Невозможно соединиться с удаленным сервером
+11:31:13,017 | ERROR | MasterOrderForm | Exception in MasterOrderForm.SetConnector | EXCEPTION: Failed to get all open orders. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:31:15,108 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:31:15,136 | ERROR | Master | Exception in BinanceApp.GetPositions | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Невозможно соединиться с удаленным сервером
+11:31:15,166 | ERROR | Positions | Exception in Positions.SetConnector while getting positions | EXCEPTION: Failed to get positions. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:32:02,625 | INFO  | RedisClient | redis client created
+11:32:02,626 | INFO  | RedisTransmitter | redis transmitter was created
+11:32:02,627 | INFO  | RedisClient | redis client created
+11:32:02,628 | INFO  | RedisListener | redis listener with host: [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] was created
+11:32:02,629 | INFO  | RedisListener | run redis listener
+11:32:02,630 | INFO  | RedisClient | trying to connect redis...
+11:32:02,631 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+11:32:02,983 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+11:32:02,991 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+11:32:03,282 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+11:32:03,283 | INFO  | RedisClient | redis client connected successfully
+11:32:03,286 | INFO  | RedisListener | trying to start redis listener polling...
+11:32:03,331 | INFO  | RedisClient | trying to connect redis...
+11:32:03,332 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+11:32:03,615 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+11:32:03,616 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+11:32:03,897 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+11:32:03,898 | INFO  | RedisClient | redis client connected successfully
+11:32:05,007 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:32:05,050 | ERROR | Master | Exception in BinanceApp.GetPositions | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Невозможно соединиться с удаленным сервером
+11:32:05,072 | ERROR | Positions | Exception in Positions.SetConnector while getting positions | EXCEPTION: Failed to get positions. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:32:07,206 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:32:07,232 | ERROR | Master | Exception in BinanceApp.GetAllOpenOrders | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Невозможно соединиться с удаленным сервером
+11:32:07,259 | ERROR | MasterOrderForm | Exception in MasterOrderForm.SetConnector | EXCEPTION: Failed to get all open orders. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:32:09,556 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:32:09,628 | ERROR | Master | Exception in BinanceFrontEnd.Start | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Невозможно соединиться с удаленным сервером
+11:33:42,184 | INFO  | RedisClient | redis client created
+11:33:42,185 | INFO  | RedisTransmitter | redis transmitter was created
+11:33:42,186 | INFO  | RedisClient | redis client created
+11:33:42,186 | INFO  | RedisListener | redis listener with host: [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] was created
+11:33:42,188 | INFO  | RedisListener | run redis listener
+11:33:42,189 | INFO  | RedisClient | trying to connect redis...
+11:33:42,190 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+11:33:42,579 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+11:33:42,583 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+11:33:42,876 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+11:33:42,877 | INFO  | RedisClient | redis client connected successfully
+11:33:42,879 | INFO  | RedisListener | trying to start redis listener polling...
+11:33:42,922 | INFO  | RedisClient | trying to connect redis...
+11:33:42,923 | INFO  | RedisClient | trying to setup redis stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311]...
+11:33:43,204 | INFO  | RedisClient | stream with endpoint [redis-10311.c291.ap-southeast-2-1.ec2.cloud.redislabs.com:10311] setup successfully
+11:33:43,205 | INFO  | RedisClient | trying to login redis by username: "TradeRouter" and password: "****************"...
+11:33:43,486 | INFO  | RedisClient | login redis by username: "TradeRouter" and password: "****************" successfully
+11:33:43,487 | INFO  | RedisClient | redis client connected successfully
+11:33:44,460 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:33:44,462 | ERROR | Master | Exception in BinanceApp.GetAllOpenOrders | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Невозможно соединиться с удаленным сервером
+11:33:44,470 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:33:44,472 | ERROR | MasterOrderForm | Exception in MasterOrderForm.SetConnector | EXCEPTION: Failed to get all open orders. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:33:44,487 | ERROR | Master | Exception in BinanceApp.GetPositions | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Невозможно соединиться с удаленным сервером
+11:33:44,489 | ERROR | Positions | Exception in Positions.SetConnector while getting positions | EXCEPTION: Failed to get positions. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:33:46,746 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:33:46,767 | ERROR | Master | Exception in BinanceFrontEnd.Start | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Невозможно соединиться с удаленным сервером
+12:04:54,197 | ERROR | UNHANDLED ThreadException | UnhandledException EXCEPTION FROM SENDER: RouterApplication.SingleApplication => Message Could not load file or assembly 'System.Configuration.ConfigurationManager, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040) | StackTrace    at AccountTracker.AccountTrack..ctor(IExecutionContext queue, ILogger logger, FrontEndClient master)
+   at RouterApplication.ListenersWindow..ctor(ILogger logger, Positions masterPositions, SlavePositions slavePositions, MasterOrderForm masterOrder, SlaveOrderForm slaveOrder) in C:\Users\ivasc\RiderProjects\TradeRouter\NormalRouterApplication\ListenersWindow.cs:line 63
+   at RouterApplication.MainForm..ctor(ILogger logger) in C:\Users\ivasc\RiderProjects\TradeRouter\NormalRouterApplication\MainForm.cs:line 25
+   at RouterApplication.SingleApplication.OnCreateMainForm() in C:\Users\ivasc\RiderProjects\TradeRouter\NormalRouterApplication\Program.cs:line 50
+   at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun()
+   at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.DoApplicationModel()
+12:07:52,574 | ERROR | UNHANDLED ThreadException | UnhandledException EXCEPTION FROM SENDER: RouterApplication.SingleApplication => Message Could not load file or assembly 'System.Configuration.ConfigurationManager, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040) | StackTrace    at AccountTracker.AccountTrack..ctor(IExecutionContext queue, ILogger logger, FrontEndClient master)
+   at RouterApplication.ListenersWindow..ctor(ILogger logger, Positions masterPositions, SlavePositions slavePositions, MasterOrderForm masterOrder, SlaveOrderForm slaveOrder) in C:\Users\ivasc\RiderProjects\TradeRouter\NormalRouterApplication\ListenersWindow.cs:line 63
+   at RouterApplication.MainForm..ctor(ILogger logger) in C:\Users\ivasc\RiderProjects\TradeRouter\NormalRouterApplication\MainForm.cs:line 25
+   at RouterApplication.SingleApplication.OnCreateMainForm() in C:\Users\ivasc\RiderProjects\TradeRouter\NormalRouterApplication\Program.cs:line 50
+   at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun()
+   at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.DoApplicationModel()
+12:10:20,197 | INFO  | Master | Logon
+12:11:17,204 | INFO  | Master | Stopped
+12:11:17,207 | WARN  | Master | Connection closed by client side
+12:11:17,208 | INFO  | Master | Logout
+12:11:26,668 | INFO  | Master | Logon
+12:11:26,981 | INFO  | Master | Stopped
+12:11:39,917 | INFO  | Master | Logon
+12:16:34,819 | WARN  | Master | Connection has been closed according to some problems. It will restart automatically  | Message: Unable to read data from the transport connection: Программа на вашем хост-компьютере разорвала установленное подключение.
+12:16:45,647 | INFO  | Master | Logout
+12:17:28,156 | INFO  | Master | Logon
+12:20:22,616 | INFO  | Master | Logon
+12:20:37,368 | INFO  | Master | Stopped
+12:20:37,373 | WARN  | Master | Connection closed by client side
+12:20:37,374 | INFO  | Master | Logout
+12:20:47,728 | INFO  | Master | Started
+12:20:49,580 | INFO  | Master | Logon
+12:22:31,673 | INFO  | Master | Stopped
+12:22:31,673 | WARN  | Master | Connection closed by client side
+12:22:31,674 | INFO  | Master | Logout
+12:22:35,799 | INFO  | Master | Started
+12:22:38,547 | INFO  | Master | Logon
+12:22:56,274 | INFO  | Master | Stopped
+12:22:56,273 | WARN  | Master | Connection closed by client side
+12:22:56,275 | INFO  | Master | Logout
+12:23:13,656 | INFO  | Master | Logon
+12:24:35,883 | INFO  | Master | Logon
+12:24:51,771 | INFO  | Master | <-- ORDER | NEW | BTCUSDT | SELL | LONG | MARKET | P:0 | Q:1.500 | #3037544439 / #web_kDU8uQTzSEDNb2nbL9ph | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+12:24:51,796 | INFO  | Master | <-- BALANCE | UPDATE | USDT | 2884.7244 | Change except PnL and Commission: 0 | Event type: ORDER
+12:24:51,797 | INFO  | Master | <-- ORDER | FILLED | BTCUSDT | SELL | LONG | MARKET | P:0 | Q:1.500 | #3037544439 / #web_kDU8uQTzSEDNb2nbL9ph | StopPrice:0 | AvgPrice:38899.50000 | LastFilledPrice:38899.5 | FilledQty:1.500 | CumQty:1.500 | ClosePosition: False
+12:24:51,838 | INFO  | Master | Unsubscribed BTCUSDT
+12:24:51,846 | WARN  | Master | Connection closed by client side
+12:32:46,599 | INFO  | Master | Stopped
+12:32:46,598 | WARN  | Master | Connection closed by client side
+12:32:46,600 | INFO  | Master | Logout
+12:33:04,847 | INFO  | Master | Logon
+12:34:59,306 | INFO  | Master | <-- ORDER | NEW | BTCUSDT | BUY | LONG | LIMIT | P:38971.40 | Q:1.400 | #3037545443 / #web_3ScKBRKsY1ZAmNxdAWf3 | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+12:35:01,694 | INFO  | Master | <-- BALANCE | UPDATE | USDT | 2873.812408 | Change except PnL and Commission: 0 | Event type: ORDER
+12:35:01,695 | INFO  | Master | <-- ORDER | FILLED | BTCUSDT | BUY | LONG | LIMIT | P:38971.40 | Q:1.400 | #3037545443 / #web_3ScKBRKsY1ZAmNxdAWf3 | StopPrice:0 | AvgPrice:38971.40000 | LastFilledPrice:38971.4 | FilledQty:1.400 | CumQty:1.400 | ClosePosition: False
+12:38:14,934 | INFO  | Master | <-- ORDER | NEW | BTCUSDT | SELL | LONG | MARKET | P:0 | Q:1.400 | #3037545834 / #web_G5Ps3qY0D0afCDlufvdJ | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+12:38:14,936 | INFO  | Master | <-- BALANCE | UPDATE | USDT | 2878.26084752 | Change except PnL and Commission: 0 | Event type: ORDER
+12:38:14,937 | INFO  | Master | <-- ORDER | PARTIALLY_FILLED | BTCUSDT | SELL | LONG | MARKET | P:0 | Q:1.400 | #3037545834 / #web_G5Ps3qY0D0afCDlufvdJ | StopPrice:0 | AvgPrice:39009.70000 | LastFilledPrice:39009.7 | FilledQty:0.196 | CumQty:0.196 | ClosePosition: False
+12:38:14,938 | INFO  | Master | <-- BALANCE | UPDATE | USDT | 2878.38884832 | Change except PnL and Commission: 0 | Event type: ORDER
+12:38:14,939 | INFO  | Master | <-- ORDER | PARTIALLY_FILLED | BTCUSDT | SELL | LONG | MARKET | P:0 | Q:1.400 | #3037545834 / #web_G5Ps3qY0D0afCDlufvdJ | StopPrice:0 | AvgPrice:39009.21942 | LastFilledPrice:38999.8 | FilledQty:0.010 | CumQty:0.206 | ClosePosition: False
+12:38:14,941 | INFO  | Master | <-- BALANCE | UPDATE | USDT | 2887.82388408 | Change except PnL and Commission: 0 | Event type: ORDER
+12:38:14,942 | INFO  | Master | <-- ORDER | FILLED | BTCUSDT | SELL | LONG | MARKET | P:0 | Q:1.400 | #3037545834 / #web_G5Ps3qY0D0afCDlufvdJ | StopPrice:0 | AvgPrice:38997.00700 | LastFilledPrice:38994.9 | FilledQty:1.194 | CumQty:1.400 | ClosePosition: False
+12:38:15,055 | INFO  | Master | Unsubscribed BTCUSDT
+12:38:15,055 | WARN  | Master | Connection closed by client side
+12:44:26,672 | INFO  | Subscriber1 | Started
+12:44:28,772 | INFO  | Subscriber1 | Positions mode changed successfully to Hedge Mode
+12:44:29,616 | INFO  | Subscriber1 | Logon
+12:44:31,091 | INFO  | Subscriber1 | Non master orders canceled
+12:44:31,093 | INFO  | Subscriber1 | No position to close
+12:44:31,096 | INFO  | Subscriber1 | Open orders synchronized with master
+12:45:45,867 | INFO  | Master | <-- ORDER | NEW | BTCUSDT | BUY | LONG | LIMIT | P:38998.20 | Q:1.400 | #3037546735 / #web_gk6XCQK7F8jhOXTlWWAi | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+12:45:45,960 | INFO  | Master | <-- BALANCE | UPDATE | USDT | 2876.90438808 | Change except PnL and Commission: 0 | Event type: ORDER
+12:45:45,961 | INFO  | Master | <-- ORDER | FILLED | BTCUSDT | BUY | LONG | LIMIT | P:38998.20 | Q:1.400 | #3037546735 / #web_gk6XCQK7F8jhOXTlWWAi | StopPrice:0 | AvgPrice:38998.20000 | LastFilledPrice:38998.2 | FilledQty:1.400 | CumQty:1.400 | ClosePosition: False
+12:45:46,244 | INFO  | Subscriber1 | --> ORDER | NEW | BTCUSDT | BUY | LONG | LIMIT | 38998.2 | 1.4 | #web_gk6XCQK7F8jhOXTlWWAi | Response: {"orderId":3037546737,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"web_gk6XCQK7F8jhOXTlWWAi","price":"38998.20","avgPrice":"0.00000","origQty":"1.400","executedQty":"0","cumQty":"0","cumQuote":"0","timeInForce":"GTC","type":"LIMIT","reduceOnly":false,"closePosition":false,"side":"BUY","positionSide":"LONG","stopPrice":"0","workingType":"CONTRACT_PRICE","priceProtect":false,"origType":"LIMIT","updateTime":1651657546943} | Sended params: symbol=BTCUSDT&side=BUY&type=LIMIT&positionSide=LONG&price=38998.2&quantity=1.4&timeInForce=GTC&newClientOrderId=web_gk6XCQK7F8jhOXTlWWAi
+12:45:46,271 | INFO  | Subscriber1 | <-- ORDER | NEW | BTCUSDT | BUY | LONG | LIMIT | P:38998.20 | Q:1.400 | #3037546737 / #web_gk6XCQK7F8jhOXTlWWAi | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+12:45:49,784 | INFO  | Subscriber1 | <-- BALANCE | UPDATE | USDT | 2989.080504 | Change except PnL and Commission: 0 | Event type: ORDER
+12:45:49,785 | INFO  | Subscriber1 | <-- ORDER | FILLED | BTCUSDT | BUY | LONG | LIMIT | P:38998.20 | Q:1.400 | #3037546737 / #web_gk6XCQK7F8jhOXTlWWAi | StopPrice:0 | AvgPrice:38998.20000 | LastFilledPrice:38998.2 | FilledQty:1.400 | CumQty:1.400 | ClosePosition: False
+12:50:02,630 | INFO  | Master | <-- ORDER | NEW | BTCUSDT | SELL | LONG | MARKET | P:0 | Q:1.400 | #3037547497 / #web_a0FASVv2f3M1gmcKWzMH | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+12:50:02,632 | INFO  | Master | <-- BALANCE | UPDATE | USDT | 2700.98705208 | Change except PnL and Commission: 0 | Event type: ORDER
+12:50:02,633 | INFO  | Master | <-- ORDER | FILLED | BTCUSDT | SELL | LONG | MARKET | P:0 | Q:1.400 | #3037547497 / #web_a0FASVv2f3M1gmcKWzMH | StopPrice:0 | AvgPrice:38888.10000 | LastFilledPrice:38888.1 | FilledQty:1.400 | CumQty:1.400 | ClosePosition: False
+12:50:02,698 | INFO  | Master | Unsubscribed BTCUSDT
+12:50:02,698 | WARN  | Master | Connection closed by client side
+12:50:03,001 | INFO  | Subscriber1 | --> ORDER | NEW | BTCUSDT | SELL | LONG | MARKET | 0 | 1.4 | #web_a0FASVv2f3M1gmcKWzMH | Response: {"orderId":3037547498,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"web_a0FASVv2f3M1gmcKWzMH","price":"0","avgPrice":"0.00000","origQty":"1.400","executedQty":"0","cumQty":"0","cumQuote":"0","timeInForce":"GTC","type":"MARKET","reduceOnly":true,"closePosition":false,"side":"SELL","positionSide":"LONG","stopPrice":"0","workingType":"CONTRACT_PRICE","priceProtect":false,"origType":"MARKET","updateTime":1651657803701} | Sended params: symbol=BTCUSDT&side=SELL&type=MARKET&positionSide=LONG&quantity=1.4&newClientOrderId=web_a0FASVv2f3M1gmcKWzMH
+12:50:03,030 | INFO  | Subscriber1 | <-- ORDER | NEW | BTCUSDT | SELL | LONG | MARKET | P:0 | Q:1.400 | #3037547498 / #web_a0FASVv2f3M1gmcKWzMH | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+12:50:03,031 | INFO  | Subscriber1 | <-- BALANCE | UPDATE | USDT | 2813.163168 | Change except PnL and Commission: 0 | Event type: ORDER
+12:50:03,032 | INFO  | Subscriber1 | <-- ORDER | FILLED | BTCUSDT | SELL | LONG | MARKET | P:0 | Q:1.400 | #3037547498 / #web_a0FASVv2f3M1gmcKWzMH | StopPrice:0 | AvgPrice:38888.10000 | LastFilledPrice:38888.1 | FilledQty:1.400 | CumQty:1.400 | ClosePosition: False
+12:50:03,060 | INFO  | Subscriber1 | Unsubscribed BTCUSDT
+12:50:03,068 | WARN  | Subscriber1 | Connection closed by client side
+12:51:58,335 | WARN  | Master | Connection closed by client side
+12:51:58,336 | WARN  | Subscriber1 | Connection closed by client side
+12:51:58,337 | INFO  | Subscriber1 | Stopped
+12:51:58,336 | INFO  | Master | Logout
+12:51:58,337 | INFO  | Subscriber1 | Logout
+12:51:58,339 | INFO  | Master | Stopped
+12:51:58,351 | ERROR | Master | Exception2 in WebSocketWrapper.SocketConnect | Message: Error creating window handle.
+12:54:28,415 | INFO  | Master | Logon
+12:54:35,665 | INFO  | Subscriber1 | Started
+12:54:36,878 | INFO  | Subscriber1 | Positions mode not changed! Reason: No need to change position side.
+12:54:37,579 | INFO  | Subscriber1 | Logon
+12:54:39,016 | INFO  | Subscriber1 | Non master orders canceled
+12:54:39,018 | INFO  | Subscriber1 | No position to close
+12:54:39,021 | INFO  | Subscriber1 | Open orders synchronized with master
+12:57:13,328 | INFO  | Subscriber1 | <-- ORDER | NEW | BTCUSDT | BUY | LONG | LIMIT | P:38841.80 | Q:1.400 | #3037548350 / #web_ocr3ACkbf0wKt1d08UQq | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+12:58:17,745 | INFO  | Subscriber1 | <-- ORDER | CANCELED | BTCUSDT | BUY | LONG | LIMIT | P:38841.80 | Q:1.400 | #3037548350 / #web_ocr3ACkbf0wKt1d08UQq | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+13:02:50,724 | WARN  | Subscriber1 | Connection closed by client side
+13:02:50,725 | INFO  | Subscriber1 | Logout
+13:02:50,728 | INFO  | Subscriber1 | Stopped
+14:15:50,705 | INFO  | Master | Stopped
+14:15:50,705 | WARN  | Master | Connection closed by client side
+14:15:50,709 | INFO  | Master | Logout
+15:44:01,173 | INFO  | Master | Logon
+15:49:51,582 | INFO  | Subscriber1 | Started
+15:49:53,188 | INFO  | Subscriber1 | Positions mode not changed! Reason: No need to change position side.
+15:49:53,940 | INFO  | Subscriber1 | Logon
+15:49:55,388 | INFO  | Subscriber1 | Non master orders canceled
+15:49:55,390 | INFO  | Subscriber1 | No position to close
+15:49:55,393 | INFO  | Subscriber1 | Open orders synchronized with master
+15:53:39,224 | INFO  | Master | <-- ORDER | NEW | BTCUSDT | BUY | LONG | MARKET | P:0 | Q:1.300 | #3037566008 / #web_KSqCzR5qd6tHBi0sk2gt | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+15:53:39,249 | INFO  | Master | <-- BALANCE | UPDATE | USDT | 2680.72275608 | Change except PnL and Commission: 0 | Event type: ORDER
+15:53:39,250 | INFO  | Master | <-- ORDER | FILLED | BTCUSDT | BUY | LONG | MARKET | P:0 | Q:1.300 | #3037566008 / #web_KSqCzR5qd6tHBi0sk2gt | StopPrice:0 | AvgPrice:38969.80000 | LastFilledPrice:38969.8 | FilledQty:1.300 | CumQty:1.300 | ClosePosition: False
+15:53:39,605 | INFO  | Subscriber1 | --> ORDER | NEW | BTCUSDT | BUY | LONG | MARKET | 0 | 0.26 | #web_KSqCzR5qd6tHBi0sk2gt | Response: {"orderId":3037566010,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"web_KSqCzR5qd6tHBi0sk2gt","price":"0","avgPrice":"0.00000","origQty":"0.260","executedQty":"0","cumQty":"0","cumQuote":"0","timeInForce":"GTC","type":"MARKET","reduceOnly":false,"closePosition":false,"side":"BUY","positionSide":"LONG","stopPrice":"0","workingType":"CONTRACT_PRICE","priceProtect":false,"origType":"MARKET","updateTime":1651668820324} | Sended params: symbol=BTCUSDT&side=BUY&type=MARKET&positionSide=LONG&quantity=0.26&newClientOrderId=web_KSqCzR5qd6tHBi0sk2gt
+15:53:39,625 | INFO  | Subscriber1 | <-- ORDER | NEW | BTCUSDT | BUY | LONG | MARKET | P:0 | Q:0.260 | #3037566010 / #web_KSqCzR5qd6tHBi0sk2gt | StopPrice:0 | AvgPrice:0 | LastFilledPrice:0 | FilledQty:0 | CumQty:0 | ClosePosition: False
+15:53:39,628 | INFO  | Subscriber1 | <-- BALANCE | UPDATE | USDT | 2809.1103088 | Change except PnL and Commission: 0 | Event type: ORDER
+15:53:39,629 | INFO  | Subscriber1 | <-- ORDER | FILLED | BTCUSDT | BUY | LONG | MARKET | P:0 | Q:0.260 | #3037566010 / #web_KSqCzR5qd6tHBi0sk2gt | StopPrice:0 | AvgPrice:38969.80000 | LastFilledPrice:38969.8 | FilledQty:0.260 | CumQty:0.260 | ClosePosition: False
+16:00:10,332 | WARN  | Subscriber1 | Connection closed by client side
+16:00:10,333 | INFO  | Subscriber1 | Stopped
+16:00:10,333 | WARN  | Subscriber1 | Connection closed by client side
+16:00:10,333 | INFO  | Subscriber1 | Logout
+16:01:03,766 | WARN  | Master | Connection closed by client side
+16:01:03,767 | INFO  | Master | Logout
+16:01:03,766 | WARN  | Master | Connection closed by client side
+16:01:03,768 | INFO  | Master | Stopped
+16:01:03,781 | ERROR | Master | Exception2 in WebSocketWrapper.SocketConnect | Message: Error creating window handle.

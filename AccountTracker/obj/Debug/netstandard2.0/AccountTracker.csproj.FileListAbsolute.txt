@@ -1,0 +1,15 @@
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\bin\Debug\netstandard2.0\AccountTracker.deps.json
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\bin\Debug\netstandard2.0\AccountTracker.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\bin\Debug\netstandard2.0\AccountTracker.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\bin\Debug\netstandard2.0\SharedBinance.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\bin\Debug\netstandard2.0\TelegramBotAPI.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\bin\Debug\netstandard2.0\SharedBinance.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\bin\Debug\netstandard2.0\TelegramBotAPI.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\obj\Debug\netstandard2.0\AccountTracker.csproj.AssemblyReference.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\obj\Debug\netstandard2.0\AccountTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\obj\Debug\netstandard2.0\AccountTracker.AssemblyInfoInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\obj\Debug\netstandard2.0\AccountTracker.AssemblyInfo.cs
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\obj\Debug\netstandard2.0\AccountTracker.csproj.CoreCompileInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\obj\Debug\netstandard2.0\AccountTracker.csproj.CopyComplete
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\obj\Debug\netstandard2.0\AccountTracker.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\AccountTracker\obj\Debug\netstandard2.0\AccountTracker.pdb

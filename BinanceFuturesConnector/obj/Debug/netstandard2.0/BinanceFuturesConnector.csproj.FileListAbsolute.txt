@@ -1,0 +1,15 @@
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\bin\Debug\netstandard2.0\BinanceFuturesConnector.deps.json
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\bin\Debug\netstandard2.0\BinanceFuturesConnector.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\bin\Debug\netstandard2.0\BinanceFuturesConnector.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\bin\Debug\netstandard2.0\SharedBinance.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\bin\Debug\netstandard2.0\SharedBinance.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\obj\Debug\netstandard2.0\BinanceFuturesConnector.csproj.AssemblyReference.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\obj\Debug\netstandard2.0\BinanceFuturesConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\obj\Debug\netstandard2.0\BinanceFuturesConnector.AssemblyInfoInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\obj\Debug\netstandard2.0\BinanceFuturesConnector.AssemblyInfo.cs
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\obj\Debug\netstandard2.0\BinanceFuturesConnector.csproj.CoreCompileInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\obj\Debug\netstandard2.0\BinanceFuturesConnector.csproj.CopyComplete
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\obj\Debug\netstandard2.0\BinanceFuturesConnector.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\obj\Debug\netstandard2.0\BinanceFuturesConnector.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\bin\Debug\netstandard2.0\CommonExchange.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\bin\Debug\netstandard2.0\CommonExchange.pdb

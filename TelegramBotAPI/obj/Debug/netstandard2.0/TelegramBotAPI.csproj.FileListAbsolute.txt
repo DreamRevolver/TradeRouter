@@ -1,0 +1,10 @@
+C:\Users\ivasc\RiderProjects\TradeRouter\TelegramBotAPI\bin\Debug\netstandard2.0\TelegramBotAPI.deps.json
+C:\Users\ivasc\RiderProjects\TradeRouter\TelegramBotAPI\bin\Debug\netstandard2.0\TelegramBotAPI.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\TelegramBotAPI\bin\Debug\netstandard2.0\TelegramBotAPI.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\TelegramBotAPI\obj\Debug\netstandard2.0\TelegramBotAPI.csproj.AssemblyReference.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\TelegramBotAPI\obj\Debug\netstandard2.0\TelegramBotAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivasc\RiderProjects\TradeRouter\TelegramBotAPI\obj\Debug\netstandard2.0\TelegramBotAPI.AssemblyInfoInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\TelegramBotAPI\obj\Debug\netstandard2.0\TelegramBotAPI.AssemblyInfo.cs
+C:\Users\ivasc\RiderProjects\TradeRouter\TelegramBotAPI\obj\Debug\netstandard2.0\TelegramBotAPI.csproj.CoreCompileInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\TelegramBotAPI\obj\Debug\netstandard2.0\TelegramBotAPI.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\TelegramBotAPI\obj\Debug\netstandard2.0\TelegramBotAPI.pdb

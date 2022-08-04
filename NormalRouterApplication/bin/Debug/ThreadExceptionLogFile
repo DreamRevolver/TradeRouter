@@ -1,0 +1,6 @@
+ThreadException EXCEPTION FROM SENDER: RouterApplication.SingleApplication => Message Could not load file or assembly 'System.Configuration.ConfigurationManager, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040) | StackTrace    at AccountTracker.AccountTrack..ctor(IExecutionContext queue, ILogger logger, FrontEndClient master)
+   at RouterApplication.ListenersWindow..ctor(ILogger logger, Positions masterPositions, SlavePositions slavePositions, MasterOrderForm masterOrder, SlaveOrderForm slaveOrder) in C:\Users\ivasc\RiderProjects\TradeRouter\NormalRouterApplication\ListenersWindow.cs:line 63
+   at RouterApplication.MainForm..ctor(ILogger logger) in C:\Users\ivasc\RiderProjects\TradeRouter\NormalRouterApplication\MainForm.cs:line 25
+   at RouterApplication.SingleApplication.OnCreateMainForm() in C:\Users\ivasc\RiderProjects\TradeRouter\NormalRouterApplication\Program.cs:line 50
+   at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun()
+   at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.DoApplicationModel()

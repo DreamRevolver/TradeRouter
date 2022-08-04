@@ -1,0 +1,10 @@
+C:\Users\ivasc\RiderProjects\TradeRouter\ProxyUtility\bin\Debug\netstandard2.0\ProxyUtility.deps.json
+C:\Users\ivasc\RiderProjects\TradeRouter\ProxyUtility\bin\Debug\netstandard2.0\ProxyUtility.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\ProxyUtility\bin\Debug\netstandard2.0\ProxyUtility.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\ProxyUtility\obj\Debug\netstandard2.0\ProxyUtility.csproj.AssemblyReference.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\ProxyUtility\obj\Debug\netstandard2.0\ProxyUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivasc\RiderProjects\TradeRouter\ProxyUtility\obj\Debug\netstandard2.0\ProxyUtility.AssemblyInfoInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\ProxyUtility\obj\Debug\netstandard2.0\ProxyUtility.AssemblyInfo.cs
+C:\Users\ivasc\RiderProjects\TradeRouter\ProxyUtility\obj\Debug\netstandard2.0\ProxyUtility.csproj.CoreCompileInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\ProxyUtility\obj\Debug\netstandard2.0\ProxyUtility.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\ProxyUtility\obj\Debug\netstandard2.0\ProxyUtility.pdb

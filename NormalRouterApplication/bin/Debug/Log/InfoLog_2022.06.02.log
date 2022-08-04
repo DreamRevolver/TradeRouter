@@ -1,0 +1,4 @@
+17:59:33,345 | INFO  | Master | Logon
+18:09:12,518 | WARN  | Master | Connection closed by client side
+18:09:12,520 | INFO  | Master | Logout
+18:09:12,522 | INFO  | Master | Stopped

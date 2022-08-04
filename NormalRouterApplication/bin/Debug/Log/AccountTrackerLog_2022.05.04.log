@@ -1,0 +1,4 @@
+10:59:05,999 | AccountTracker | Tracker | Tracking of non master orders started
+12:54:45,766 | AccountTracker | Tracker | Tracking of non master orders started
+12:57:13,739 | AccountTracker | Tracker | NEW NON MASTER ORDER DETECTED IN Subscriber1 <--Report BUY, BTCUSDT, type: LIMIT, price: 38841.8, quantity: 1.4, order ID: 3037548350, client order ID: web_ocr3ACkbf0wKt1d08UQq, current status: NEW, StopPrice: 0, positionSide: LONG
+12:58:17,871 | AccountTracker | Tracker | CANCEL MASTER ORDER WICH PRESENT ON MASTER IN Subscriber1 <--Report BUY, BTCUSDT, type: LIMIT, price: 38841.8, quantity: 1.4, order ID: 3037548350, client order ID: web_ocr3ACkbf0wKt1d08UQq, current status: CANCELED, StopPrice: 0, positionSide: LONG

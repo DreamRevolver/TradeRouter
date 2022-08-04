@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <LangVersion>8</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+    <PackageReference Include="Unity" Version="5.11.10" />
+    <PackageReference Include="Unity.Container" Version="5.11.11" />
+    <PackageReference Include="Utf8Json" Version="1.3.7" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BinanceBackEnd\BinanceBackEnd.csproj" />
+    <ProjectReference Include="..\BinanceFrontEnd\BinanceFrontEnd.csproj" />
+    <ProjectReference Include="..\BinanceFuturesConnector\BinanceFuturesConnector.csproj" />
+    <ProjectReference Include="..\NormalRouterApplication\NormalRouterApplication.csproj" />
+    <ProjectReference Include="..\SharedBinance\SharedBinance.csproj" />
+    <ProjectReference Include="..\Supervisor\Supervisor.csproj" />
+  </ItemGroup>
+</Project>

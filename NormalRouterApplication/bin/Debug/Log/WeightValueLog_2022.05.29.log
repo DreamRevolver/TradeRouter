@@ -1,0 +1,15 @@
+02:34:48,935 | BinanceWeight | Master | GetInstruments - Weight: 1
+02:34:49,364 | BinanceWeight | Master | GetAllOpenOrderds - Weight: 40
+02:34:50,692 | BinanceWeight | Master | GetPositions - Weight: 5
+02:34:54,738 | BinanceWeight | Master | GetPositions - Weight: 5
+02:34:55,148 | BinanceWeight | Master | GetAllOpenOrderds - Weight: 40
+04:14:39,332 | BinanceWeight | Subscriber1 | GetAllOpenOrderds - Weight: 40
+04:14:39,351 | BinanceWeight | Subscriber1 | GetPositions - Weight: 5
+04:14:40,101 | BinanceWeight | Subscriber1 | ChangePositionMode - Weight: 1
+04:14:42,597 | BinanceWeight | Subscriber1 | GetAccountInfo - Weight: 5
+04:14:42,993 | BinanceWeight | Subscriber1 | GetAllOpenOrderds - Weight: 40
+04:25:32,671 | BinanceWeight | Sub2 | GetAllOpenOrderds - Weight: 40
+04:25:33,147 | BinanceWeight | Sub2 | GetPositions - Weight: 5
+04:25:33,901 | BinanceWeight | Sub2 | ChangePositionMode - Weight: 1
+04:25:36,367 | BinanceWeight | Sub2 | GetAccountInfo - Weight: 5
+04:25:36,764 | BinanceWeight | Sub2 | GetAllOpenOrderds - Weight: 40

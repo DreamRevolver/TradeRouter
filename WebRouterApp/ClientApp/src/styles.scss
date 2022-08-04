@@ -1,0 +1,36 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-spacer {
+  flex: 1 1 auto;
+}
+
+.centered {
+  justify-content: center;
+}
+
+.left-justified {
+  justify-content: left;
+}
+
+.link:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

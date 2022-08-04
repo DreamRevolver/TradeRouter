@@ -1,0 +1,10 @@
+C:\Users\ivasc\RiderProjects\TradeRouter\SharedBinance\bin\Debug\netstandard2.0\SharedBinance.deps.json
+C:\Users\ivasc\RiderProjects\TradeRouter\SharedBinance\bin\Debug\netstandard2.0\SharedBinance.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\SharedBinance\bin\Debug\netstandard2.0\SharedBinance.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\SharedBinance\obj\Debug\netstandard2.0\SharedBinance.csproj.AssemblyReference.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\SharedBinance\obj\Debug\netstandard2.0\SharedBinance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivasc\RiderProjects\TradeRouter\SharedBinance\obj\Debug\netstandard2.0\SharedBinance.AssemblyInfoInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\SharedBinance\obj\Debug\netstandard2.0\SharedBinance.AssemblyInfo.cs
+C:\Users\ivasc\RiderProjects\TradeRouter\SharedBinance\obj\Debug\netstandard2.0\SharedBinance.csproj.CoreCompileInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\SharedBinance\obj\Debug\netstandard2.0\SharedBinance.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\SharedBinance\obj\Debug\netstandard2.0\SharedBinance.pdb

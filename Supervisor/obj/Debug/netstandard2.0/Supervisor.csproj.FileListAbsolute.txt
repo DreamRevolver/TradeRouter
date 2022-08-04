@@ -1,0 +1,17 @@
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\bin\Debug\netstandard2.0\Supervisor.deps.json
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\bin\Debug\netstandard2.0\Supervisor.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\bin\Debug\netstandard2.0\Supervisor.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\bin\Debug\netstandard2.0\Redis.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\bin\Debug\netstandard2.0\SharedBinance.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\bin\Debug\netstandard2.0\TelegramBotAPI.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\bin\Debug\netstandard2.0\Redis.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\bin\Debug\netstandard2.0\SharedBinance.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\bin\Debug\netstandard2.0\TelegramBotAPI.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\obj\Debug\netstandard2.0\Supervisor.csproj.AssemblyReference.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\obj\Debug\netstandard2.0\Supervisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\obj\Debug\netstandard2.0\Supervisor.AssemblyInfoInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\obj\Debug\netstandard2.0\Supervisor.AssemblyInfo.cs
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\obj\Debug\netstandard2.0\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\obj\Debug\netstandard2.0\Supervisor.csproj.CopyComplete
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\obj\Debug\netstandard2.0\Supervisor.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\Supervisor\obj\Debug\netstandard2.0\Supervisor.pdb

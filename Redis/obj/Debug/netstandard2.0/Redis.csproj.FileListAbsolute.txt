@@ -1,0 +1,11 @@
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\bin\Debug\netstandard2.0\Redis.deps.json
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\bin\Debug\netstandard2.0\Redis.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\bin\Debug\netstandard2.0\Redis.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\bin\Debug\netstandard2.0\SharedBinance.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\bin\Debug\netstandard2.0\SharedBinance.pdb
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\obj\Debug\netstandard2.0\Redis.csproj.AssemblyReference.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\obj\Debug\netstandard2.0\Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\obj\Debug\netstandard2.0\Redis.csproj.CoreCompileInputs.cache
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\obj\Debug\netstandard2.0\Redis.csproj.CopyComplete
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\obj\Debug\netstandard2.0\Redis.dll
+C:\Users\ivasc\RiderProjects\TradeRouter\Redis\obj\Debug\netstandard2.0\Redis.pdb

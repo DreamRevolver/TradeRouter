@@ -1,0 +1,5 @@
+17:59:29,416 | BinanceWeight | Master | GetInstruments - Weight: 1
+17:59:30,339 | BinanceWeight | Master | GetAllOpenOrderds - Weight: 40
+17:59:31,017 | BinanceWeight | Master | GetPositions - Weight: 5
+17:59:35,052 | BinanceWeight | Master | GetPositions - Weight: 5
+17:59:35,432 | BinanceWeight | Master | GetAllOpenOrderds - Weight: 40

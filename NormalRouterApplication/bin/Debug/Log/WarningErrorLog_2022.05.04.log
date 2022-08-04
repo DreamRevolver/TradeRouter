@@ -1,0 +1,58 @@
+10:56:37,966 | WARN  | Master | Connection closed by client side
+11:00:16,420 | WARN  | Master | Connection closed by client side
+11:31:12,890 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:31:12,995 | ERROR | Master | Exception in BinanceApp.GetAllOpenOrders | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Ќевозможно соединитьс€ с удаленным сервером
+11:31:13,017 | ERROR | MasterOrderForm | Exception in MasterOrderForm.SetConnector | EXCEPTION: Failed to get all open orders. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:31:15,108 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:31:15,136 | ERROR | Master | Exception in BinanceApp.GetPositions | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Ќевозможно соединитьс€ с удаленным сервером
+11:31:15,166 | ERROR | Positions | Exception in Positions.SetConnector while getting positions | EXCEPTION: Failed to get positions. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:32:05,007 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:32:05,050 | ERROR | Master | Exception in BinanceApp.GetPositions | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Ќевозможно соединитьс€ с удаленным сервером
+11:32:05,072 | ERROR | Positions | Exception in Positions.SetConnector while getting positions | EXCEPTION: Failed to get positions. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:32:07,206 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:32:07,232 | ERROR | Master | Exception in BinanceApp.GetAllOpenOrders | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Ќевозможно соединитьс€ с удаленным сервером
+11:32:07,259 | ERROR | MasterOrderForm | Exception in MasterOrderForm.SetConnector | EXCEPTION: Failed to get all open orders. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:32:09,556 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:32:09,628 | ERROR | Master | Exception in BinanceFrontEnd.Start | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Ќевозможно соединитьс€ с удаленным сервером
+11:33:44,460 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:33:44,462 | ERROR | Master | Exception in BinanceApp.GetAllOpenOrders | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Ќевозможно соединитьс€ с удаленным сервером
+11:33:44,470 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:33:44,472 | ERROR | MasterOrderForm | Exception in MasterOrderForm.SetConnector | EXCEPTION: Failed to get all open orders. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:33:44,487 | ERROR | Master | Exception in BinanceApp.GetPositions | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Ќевозможно соединитьс€ с удаленным сервером
+11:33:44,489 | ERROR | Positions | Exception in Positions.SetConnector while getting positions | EXCEPTION: Failed to get positions. See inner exception for more details. | INNER EXCEPTION: An error occurred while sending the request.
+11:33:46,746 | ERROR | Master | Rest client exception: An error occurred while sending the request. =>    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   at BinanceFuturesConnector.RestClient.<SendRequestFull>d__9.MoveNext() in C:\Users\ivasc\RiderProjects\TradeRouter\BinanceFuturesConnector\RestClient.cs:line 56
+11:33:46,767 | ERROR | Master | Exception in BinanceFrontEnd.Start | EXCEPTION: An error occurred while sending the request. | INNER EXCEPTION: Ќевозможно соединитьс€ с удаленным сервером

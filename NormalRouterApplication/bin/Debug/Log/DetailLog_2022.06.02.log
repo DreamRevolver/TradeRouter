@@ -1,0 +1,13 @@
+17:59:29,146 | DEBUG | Master | Create new connector
+17:59:29,411 | DEBUG | Master | Start Master connector
+17:59:29,522 | DEBUG | Subscriber1 | Create new connector
+17:59:29,523 | DEBUG | Sub2 | Create new connector
+17:59:31,445 | DEBUG | Master | START connector
+17:59:32,208 | DEBUG | Master | listen key was updated
+17:59:33,345 | INFO  | Master | Logon
+18:09:12,516 | DEBUG | Master | STOP connector
+18:09:12,518 | WARN  | Master | Connection closed by client side
+18:09:12,520 | INFO  | Master | Logout
+18:09:12,521 | DEBUG | Master | Stop Master connector
+18:09:12,522 | INFO  | Master | Stopped
+18:09:12,529 | DEBUG | ListenerWindow | Application was closed manually
